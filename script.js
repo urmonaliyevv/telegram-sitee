@@ -5,5 +5,6 @@ document.getElementById('profileBtn').addEventListener('click', function() {
 
 document.getElementById('channelBtn').addEventListener('click', function() {
   // Telegram kanal havolangni shu yerga yoz
-  window.open('https://t.me/urmonalievvv', '_blank');
+  window.open('https://t.me/+jmyeZPFsmGBiMjIy', '_blank');
 });
+
